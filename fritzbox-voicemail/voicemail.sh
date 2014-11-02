@@ -10,7 +10,7 @@ set fbPassword "PASSWORD"
 # browser binary
 set browser "/usr/bin/iceweasel"
 # icon
-set icon "~/.icons/answeringMachine.png"
+set icon "/home/basti2342/.icons/answeringMachine.png"
 
 spawn telnet $fbIp
 expect "password:"
